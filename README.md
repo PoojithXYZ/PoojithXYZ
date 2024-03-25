@@ -2,9 +2,8 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on DL
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : poojithreddytalla@gmail.com
+- ⚡ Fun fact: In 1958, psychologist Frank Rosenblatt invented the perceptron, the first implemented artificial neural network.
 
 <!---
 PoojithXYZ/PoojithXYZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
